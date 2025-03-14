@@ -1,0 +1,35 @@
+_repo: My-life-and-balloon-experiences-b-With-a-supplementary-chapter-on-military-ballooning_75423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coxwell, Henry Tracey
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '57612'
+    url: http://www.gutenberg.org/2009/agents/57612
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Tracey_Coxwell
+description: ''
+gutenberg_issued: '2025-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75423'
+language: en
+pgterms:marc904: https://archive.org/details/39002079280476.med.yale.edu/mode/2up
+pgterms:marc905: 20241013073021coxwell
+pgterms:marc906: '1887'
+pgterms:marc907: GB
+production_note: Susan E., David E. Brown, E. Nauda, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bW. H. Allen & Co., $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balloons'
+- !lcsh 'Coxwell, Henry Tracey, 1819-1900'
+- !lcc 'TL'
+- GITenberg
+title: 'My life and balloon experiences : $b With a supplementary chapter on military
+  ballooning'
+url: http://www.gutenberg.org/ebooks/75423
